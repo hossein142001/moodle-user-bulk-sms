@@ -1,0 +1,133 @@
+/*
+.grid
+{
+    font-family: tahoma, verdana, arial, sans;
+    font-size: 11px;
+    width: 80%;
+    border: 1px solid #c98900;
+}
+.grid-column-sorted-asc
+{
+    width: 8px;
+    height: 10px;
+    background-image: url(./img/down.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.grid-column-sorted-desc
+{
+    width: 8px;
+    height: 10px;
+    background-image: url(./img/up.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.grid-column-title
+{
+    background-image: url('../../../images/theme_images/login-box1.jpg');
+    background-repeat: repeat-x;
+    background-color:#FFCC66;
+    height:35px;
+}
+.grid-column-title-cell
+{
+}
+.grid-column-title-caption-sortable
+{
+    font-size: 11px;
+    1font-weight: bold;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+}
+.grid-column-title-caption-not-sortable
+{
+    font-size: 11px;
+    1font-weight: bold;
+    color: black;
+}
+.grid-navigation
+{
+    background-color: #ffffff;
+    padding: 2px;
+    width: 100%;
+    font-size: 11px;
+}
+.grid-navigation-item
+{
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+.grid-navigation-item-disabled
+{
+    color: #dedede;
+    text-decoration: none;
+    font-weight: bold;
+}
+.grid-navigation-item-selected
+{
+    color: black;
+    background-color: #99cc99;
+    border: 1px solid #000000;
+    padding: 1px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.grid-row-odd
+{
+    cursor: pointer;
+    background-color: #ffffff;
+}
+.grid-row-odd-cell
+{
+    padding: 3px;
+}
+.grid-row-even
+{
+    cursor: pointer;
+    background-color: #ececec;
+}
+.grid-row-even-cell
+{
+    padding: 3px;
+}
+.grid-row-mouseover
+{
+    cursor: pointer;
+    background-color: #aabbcc;
+    color: #000000;
+}
+.grid-row-selected
+{
+    cursor: pointer;
+    color: #000000;
+    background-color: #ffff66;
+}
+.grid-custom-tab
+{
+    background-color: #ececec;
+    padding: 3px;
+    border-top: none;
+}
+.grid-no-javascript
+{
+    font-family: tahoma, verdana, arial, sans;
+    font-size: 13px;
+    font-weight: bold;
+    color: #c40000;
+}
+*/
+.grid-link
+{
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #666666;
+    border-bottom: 1px dotted #666666;
+    cursor : pointer ;
+}
+.grid-select-show-records-on-page
+{
+    font-size: 11px;
+}
