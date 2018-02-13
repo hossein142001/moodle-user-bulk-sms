@@ -43,9 +43,9 @@ class sms {
     function sms()
     {
 
-        $this->client = new SoapClient('http://www.payamsms.com/wsdl?t=' . time(), array(
-            'location' => 'http://www.payamsms.com/soap',
-            'uri' => 'http://www.payamsms.com/soap',
+        $this->client = new SoapClient('http://www.your-sms-provider.com/wsdl?t=' . time(), array(
+            'location' => 'http://www.your-sms-provider.com/soap',
+            'uri' => 'http://www.your-sms-provider.com/soap',
             'use' => SOAP_LITERAL,
             'style' => SOAP_DOCUMENT,
             'trace' => 1
